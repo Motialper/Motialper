@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "q1B_mapC.C": "cpp",
+        "type_traits": "cpp"
+    }
+}
