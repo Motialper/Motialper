@@ -1,0 +1,58 @@
+2023-03-06 12:46:54,032 INFO Vehicle 1 parked at (0, 0)
+2023-03-06 12:46:54,032 INFO Vehicle Toyota parked at (0, 0)
+2023-03-06 12:46:54,033 INFO Vehicle blue parked at (0, 0)
+2023-03-06 12:46:54,033 INFO Vehicle 2 attempting to park
+2023-03-06 12:46:54,033 INFO Car parked at (0, 1)
+2023-03-06 12:46:54,033 INFO Vehicle 2 parked at (0, 1)
+2023-03-06 12:46:54,033 INFO Vehicle 2 parked at (0, 1)
+2023-03-06 12:46:54,033 INFO Vehicle Toyota parked at (0, 1)
+2023-03-06 12:46:54,033 INFO Vehicle Toyota parked at (0, 1)
+2023-03-06 12:46:54,034 INFO Vehicle blue parked at (0, 1)
+2023-03-06 12:46:54,034 INFO Vehicle blue parked at (0, 1)
+2023-03-06 12:46:54,034 INFO Vehicle 3 attempting to park
+2023-03-06 12:46:54,034 INFO Vehicle 3 attempting to park
+2023-03-06 12:46:54,034 INFO Bus parked at (0, 2)
+2023-03-06 12:46:54,034 INFO Bus parked at (0, 2)
+2023-03-06 12:46:54,034 INFO Vehicle 3 parked at (0, 2)
+2023-03-06 12:46:54,034 INFO Vehicle 3 parked at (0, 2)
+2023-03-06 12:46:54,034 INFO Vehicle 3 parked at (0, 2)
+2023-03-06 12:46:54,035 INFO Vehicle Toyota parked at (0, 2)
+2023-03-06 12:46:54,035 INFO Vehicle Toyota parked at (0, 2)
+2023-03-06 12:46:54,035 INFO Vehicle Toyota parked at (0, 2)
+2023-03-06 12:46:54,035 INFO Vehicle blue parked at (0, 2)
+2023-03-06 12:46:54,035 INFO Vehicle blue parked at (0, 2)
+2023-03-06 12:46:54,035 INFO Vehicle blue parked at (0, 2)
+2023-03-06 12:46:54,037 INFO Vehicle 1 attempting to park
+2023-03-06 12:46:54,037 INFO Vehicle 1 attempting to park
+2023-03-06 12:46:54,037 INFO Vehicle 1 attempting to park
+2023-03-06 12:46:54,037 INFO Motorcycle parked at (0, 0)
+2023-03-06 12:46:54,037 INFO Motorcycle parked at (0, 0)
+2023-03-06 12:46:54,037 INFO Motorcycle parked at (0, 0)
+2023-03-06 12:46:54,037 INFO Vehicle 1 parked at (0, 0)
+2023-03-06 12:46:54,037 INFO Vehicle 1 parked at (0, 0)
+2023-03-06 12:46:54,037 INFO Vehicle 1 parked at (0, 0)
+2023-03-06 12:46:54,037 INFO Vehicle 1 parked at (0, 0)
+2023-03-06 12:46:54,038 INFO Vehicle Toyota parked at (0, 0)
+2023-03-06 12:46:54,038 INFO Vehicle Toyota parked at (0, 0)
+2023-03-06 12:46:54,038 INFO Vehicle Toyota parked at (0, 0)
+2023-03-06 12:46:54,038 INFO Vehicle Toyota parked at (0, 0)
+2023-03-06 12:46:54,038 INFO Vehicle blue parked at (0, 0)
+2023-03-06 12:46:54,038 INFO Vehicle blue parked at (0, 0)
+2023-03-06 12:46:54,038 INFO Vehicle blue parked at (0, 0)
+2023-03-06 12:46:54,038 INFO Vehicle blue parked at (0, 0)
+2023-03-06 12:46:54,038 INFO Vehicle 1 attempting to leave
+2023-03-06 12:46:54,038 INFO Vehicle 1 attempting to leave
+2023-03-06 12:46:54,038 INFO Vehicle 1 attempting to leave
+2023-03-06 12:46:54,038 INFO Vehicle 1 attempting to leave
+2023-03-06 12:46:54,039 INFO Vehicle type: Motorcycle, Hours: 0, Total fee: 0
+2023-03-06 12:46:54,039 INFO Vehicle type: Motorcycle, Hours: 0, Total fee: 0
+2023-03-06 12:46:54,039 INFO Vehicle type: Motorcycle, Hours: 0, Total fee: 0
+2023-03-06 12:46:54,039 INFO Vehicle type: Motorcycle, Hours: 0, Total fee: 0
+2023-03-06 12:46:54,039 INFO Started timer for "60" minute(s) 2023-03-06 12:46:54.039528.
+2023-03-06 12:46:54,039 INFO Started timer for "60" minute(s) 2023-03-06 12:46:54.039528.
+2023-03-06 12:46:54,039 INFO Started timer for "60" minute(s) 2023-03-06 12:46:54.039528.
+2023-03-06 12:46:54,039 INFO Started timer for "60" minute(s) 2023-03-06 12:46:54.039528.
+2023-03-06 12:47:54,039 INFO Vehicle 1 left the parking lot
+2023-03-06 12:47:54,039 INFO Vehicle 1 left the parking lot
+2023-03-06 12:47:54,039 INFO Vehicle 1 left the parking lot
+2023-03-06 12:47:54,039 INFO Vehicle 1 left the parking lot
